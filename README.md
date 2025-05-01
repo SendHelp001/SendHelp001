@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Jxnxrd
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendhelp001&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+## 🔥GitHub Streaks
+![sendhelp001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sendhelp001&theme=chartreuse-dark&hide_border=true)
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendhelp001&layout=compact&theme=chartreuse-dark)
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendhelp001&show_icons=true&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendhelp001&layout=compact&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
 
 I am trying to learn how to code.
 
