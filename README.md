@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jxnxrd
+# Hi there 👋, I'm Jxnxrd (https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/94.gif?raw=true)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendhelp001&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ## 🔥GitHub Streaks
