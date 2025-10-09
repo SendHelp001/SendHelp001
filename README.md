@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Jxnxrd <img width="84" height="78" alt="image" src="https://github.com/user-attachments/assets/aba06fe3-c551-4e4b-9642-e97a6c4b1327" />
+# Hi there 👋, I'm Jxnxrd ![94](https://github.com/user-attachments/assets/4c909f71-49da-4b99-92eb-3bc4f86a5ebc)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendhelp001&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
