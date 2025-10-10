@@ -22,3 +22,5 @@ I am trying to learn how to code.
 ---
 
 Feel free to reach out! 😊
+
+![212750996-938b257b-266c-45a7-9af7-655341c0f58b](https://github.com/user-attachments/assets/f7ae512e-87ae-4378-8bfa-4b41dd5aa2a4)
