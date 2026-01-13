@@ -4,7 +4,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](http://anuraghazra-github-readme-stats-three.vercel.app/api?username=sendhelp001&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ## 🔥GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats-ecru-omega.vercel.app?user=&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ecru-omega.vercel.app?user=SendHelp001&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 ## 🚀 Most Used Languages
 ![Top Languages](http://anuraghazra-github-readme-stats-three.vercel.app/api/top-langs/?username=sendhelp001&layout=compact&theme=chartreuse-dark)
 
