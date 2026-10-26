@@ -4,7 +4,7 @@
 ### <img src="https://api.iconify.design/lucide/rocket.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Rocket" /> Software Engineer & Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=ADFF2F&center=true&vcenter=true&width=520&lines=Building+Scalable+Enterprise+Web+Platforms;Full-Stack+Architect+%7C+Laravel+%7C+Livewire+%7C+MySQL;Designing+Secure+Municipal+%26+HR+Systems;Turning+Complex+Workflows+into+Clean+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=ADFF2F&center=true&vcenter=true&width=520&lines=Building+Scalable+Enterprise+Web+Platforms;Full-Stack+Architect+%7C+Laravel+%7C+Livewire+%7C+MySQL;Designing+Secure+%26+HR+Systems;Turning+Complex+Workflows+into+Clean+UI" alt="Typing SVG" />
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SendHelp001-181717?style=for-the-badge&logo=github&logoColor=adff2f)](https://github.com/SendHelp001)
