@@ -1,53 +1,92 @@
-<img align="right" height="350" src="https://github.com/user-attachments/assets/4c909f71-49da-4b99-92eb-3bc4f86a5ebc" />
-
-<p align="left">
-  <img src="https://api.iconify.design/lucide:hand-metal.svg?color=%23adff2f" width="25" /> 
-  <b>Hi there, I'm Jxnxrd</b>
-</p>
-
-<p align="left">
-  <img src="https://api.iconify.design/lucide:terminal.svg?color=%23adff2f" width="25" /> 
-  I am trying to learn how to code.
-</p>
-
-<p align="left">
-  <img src="https://api.iconify.design/lucide:sprout.svg?color=%23adff2f" width="25" /> 
-  I’m currently learning Data Science, Machine Learning, Web Development, and Game Development
-  <br><br>
-  <img src="https://api.iconify.design/lucide:mail.svg?color=%23adff2f" width="25" /> 
-  Feel free to reach out!
-</p>
-
-<p align="left">
-  <img src="https://api.iconify.design/lucide:cpu.svg?color=%23adff2f" width="25" /> 
-  <b>These are my Languages and Tools</b>
-</p>
-
-
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,laravel,androidstudio" />
+
+# <img src="https://api.iconify.design/lucide/zap.svg?color=%23adff2f" width="28" height="28" valign="middle" alt="Zap" /> Jonard (Jxnxrd)
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Rocket" /> Software Engineer & Full-Stack Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=ADFF2F&center=true&vcenter=true&width=520&lines=Building+Scalable+Enterprise+Web+Platforms;Full-Stack+Architect+%7C+Laravel+%7C+Livewire+%7C+MySQL;Designing+Secure+Municipal+%26+HR+Systems;Turning+Complex+Workflows+into+Clean+UI" alt="Typing SVG" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-SendHelp001-181717?style=for-the-badge&logo=github&logoColor=adff2f)](https://github.com/SendHelp001)
+[![Email](https://img.shields.io/badge/Email-jonardsalanip%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonardsalanip@gmail.com)
+[![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-12+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+
 </div>
 
-###
+<br>
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23adff2f" width="25" /> GitHub Stats
+<img align="right" height="320" src="https://github.com/user-attachments/assets/4c909f71-49da-4b99-92eb-3bc4f86a5ebc" alt="Character Art" />
+
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23adff2f" width="20" height="20" valign="middle" alt="Terminal" /> About Me
+
 <p align="left">
-  <img src="http://anuraghazra-github-readme-stats-three.vercel.app/api?username=sendhelp001&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://api.iconify.design/lucide/code-2.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Code" /> 
+  <b>Core Focus:</b> Full-Stack Web Development, Enterprise System Architecture & Municipal Platforms
 </p>
 
-## <img src="https://api.iconify.design/lucide:flame.svg?color=%23adff2f" width="25" /> GitHub Streaks
 <p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-ecru-omega.vercel.app?user=SendHelp001&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://api.iconify.design/lucide/building-2.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Building" /> 
+  <b>Currently Architecting:</b> Centralized HRIS, Biometric Integration, Real-Time Payroll, and RSP modules for <b>LGU Manolo Fortich</b>
 </p>
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23adff2f" width="25" /> Most Used Languages
 <p align="left">
-  <img src="http://anuraghazra-github-readme-stats-three.vercel.app/api/top-langs/?username=sendhelp001&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Security" /> 
+  <b>Engineering Principles:</b> Zero-trust RBAC/ABAC, database optimization (zero N+1 queries), atomic transactions, asynchronous queue mailers
 </p>
 
-###
+<p align="left">
+  <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Sparkles" /> 
+  <b>Exploring:</b> Advanced Agentic Systems, Machine Learning, Data Science & Real-time Web Sockets
+</p>
 
-<img src="https://github.com/user-attachments/assets/f7ae512e-87ae-4378-8bfa-4b41dd5aa2a4" width="100%" />
+<p align="left">
+  <img src="https://api.iconify.design/lucide/mail.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Mail" /> 
+  <b>Reach Out:</b> Feel free to connect via <a href="mailto:jonardsalanip@gmail.com">Email</a> or explore my repositories!
+</p>
+
+<br clear="right" />
+
+---
+
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%23adff2f" width="20" height="20" valign="middle" alt="CPU" /> Tech Stack & Tools
+
+<p align="center">
+  <img src="https://api.iconify.design/lucide/server.svg?color=%23adff2f" width="16" height="16" valign="middle" alt="Backend" /> <b>Backend & Database</b><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,nodejs,python,java" alt="Backend Skills" /><br><br>
+  <img src="https://api.iconify.design/lucide/layout.svg?color=%23adff2f" width="16" height="16" valign="middle" alt="Frontend" /> <b>Frontend & Design</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,bootstrap" alt="Frontend Skills" /><br><br>
+  <img src="https://api.iconify.design/lucide/wrench.svg?color=%23adff2f" width="16" height="16" valign="middle" alt="DevOps" /> <b>DevOps, Environments & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,powershell,linux" alt="Tool Skills" />
+</p>
+
+---
+
+### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23adff2f" width="20" height="20" valign="middle" alt="Analytics" /> Engineering Activity & GitHub Analytics
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/SendHelp001">
+        <img src="https://github-readme-stats.vercel.app/api?username=SendHelp001&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=adff2f&icon_color=adff2f&text_color=ffffff&bg_color=00000000" alt="SendHelp001 GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/SendHelp001">
+        <img src="https://streak-stats.demolab.com?user=SendHelp001&theme=chartreuse-dark&hide_border=true&fire=adff2f&ring=adff2f&currStreakLabel=adff2f&background=00000000" alt="SendHelp001 GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendHelp001&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=adff2f&text_color=ffffff&bg_color=00000000" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f7ae512e-87ae-4378-8bfa-4b41dd5aa2a4" width="100%" alt="Footer Banner" />
+</div>
