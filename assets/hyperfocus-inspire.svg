@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 260" width="100%" height="100%">
+  <defs>
+    <style><![CDATA[
+      .bg-rect {
+        fill: #060709;
+        stroke: #161b26;
+        stroke-width: 1.5;
+        rx: 8px;
+      }
+
+      /* Grid and Photocopy Texture */
+      .grid-line {
+        stroke: #121620;
+        stroke-width: 0.75;
+        stroke-dasharray: 3 4;
+      }
+      .scanlines {
+        fill: url(#scanlines-pat);
+        opacity: 0.22;
+        pointer-events: none;
+      }
+
+      /* Micro Typography and Badges */
+      .tech-mono {
+        font-family: 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', 'Cascadia Code', 'Courier New', monospace;
+        font-size: 9px;
+        letter-spacing: 1.5px;
+        fill: #5a687d;
+      }
+      .tech-green {
+        font-family: 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', 'Cascadia Code', 'Courier New', monospace;
+        font-size: 9px;
+        letter-spacing: 2px;
+        fill: #adff2f;
+        font-weight: bold;
+      }
+      .badge-pill {
+        fill: #0d1219;
+        stroke: #adff2f;
+        stroke-width: 1;
+        rx: 3px;
+      }
+      .crosshair {
+        stroke: #adff2f;
+        stroke-width: 1.2;
+        opacity: 0.55;
+      }
+
+      /* Hyperfocus Kinetic Typography */
+      .quote-title {
+        font-family: 'Impact', 'Arial Black', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 19px;
+        font-weight: 900;
+        text-anchor: middle;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+      .quote-tag {
+        font-family: 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', 'Cascadia Code', 'Courier New', monospace;
+        font-size: 10px;
+        text-anchor: middle;
+        letter-spacing: 2px;
+        fill: #adff2f;
+      }
+      .quote-sub {
+        font-family: 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', 'Cascadia Code', 'Courier New', monospace;
+        font-size: 11px;
+        text-anchor: middle;
+        letter-spacing: 2px;
+        fill: #9ca3af;
+      }
+
+      /* Motion Glitch Layers */
+      .ghost-smear {
+        fill: #adff2f;
+        opacity: 0.25;
+        transform: scale(1.05, 1) translate(-20px, 0);
+      }
+      .ghost-cyan {
+        fill: #00f0ff;
+        opacity: 0.45;
+        animation: jitter-cyan 3.8s infinite alternate ease-in-out;
+      }
+      .ghost-red {
+        fill: #ff0055;
+        opacity: 0.45;
+        animation: jitter-red 3.2s infinite alternate ease-in-out;
+      }
+      .quote-main {
+        fill: #ffffff;
+      }
+
+      @keyframes jitter-cyan {
+        0%, 100% { transform: translate(0, 0); }
+        18% { transform: translate(-3px, 1px); }
+        36% { transform: translate(2px, -1px); }
+        54% { transform: translate(-1px, 1.5px); }
+        72% { transform: translate(2.5px, 0); }
+        90% { transform: translate(-1.5px, -1px); }
+      }
+      @keyframes jitter-red {
+        0%, 100% { transform: translate(0, 0); }
+        15% { transform: translate(3px, -1px); }
+        32% { transform: translate(-2.5px, 1.5px); }
+        48% { transform: translate(1px, -1.5px); }
+        68% { transform: translate(-3px, 0.5px); }
+        85% { transform: translate(2px, -0.5px); }
+      }
+
+      /* Slide Transitions (6 Quotes x 5s = 30s Loop) */
+      .slide {
+        animation: slide-cycle 30s infinite ease-in-out;
+        opacity: 0;
+      }
+      .s-0 { animation-delay: 0s; }
+      .s-1 { animation-delay: 5s; }
+      .s-2 { animation-delay: 10s; }
+      .s-3 { animation-delay: 15s; }
+      .s-4 { animation-delay: 20s; }
+      .s-5 { animation-delay: 25s; }
+
+      @keyframes slide-cycle {
+        0% { opacity: 0; transform: translateY(8px); }
+        3% { opacity: 1; transform: translateY(0); }
+        16% { opacity: 1; transform: translateY(0); }
+        19% { opacity: 0; transform: translateY(-8px); }
+        100% { opacity: 0; }
+      }
+
+      /* Barcode and Status */
+      .barcode-bar { fill: #adff2f; opacity: 0.85; }
+      .pulse-dot {
+        fill: #ff0055;
+        animation: blink 0.8s infinite ease-in-out;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 1; }
+      }
+    ]]></style>
+
+    <pattern id="scanlines-pat" width="100%" height="3" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="1.2" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect class="bg-rect" x="2" y="2" width="876" height="256" />
+
+  <!-- Technical Background Grid -->
+  <g class="grid-line">
+    <line x1="20" y1="58" x2="860" y2="58" />
+    <line x1="20" y1="202" x2="860" y2="202" />
+    <line x1="165" y1="20" x2="165" y2="240" />
+    <line x1="715" y1="20" x2="715" y2="240" />
+  </g>
+
+  <!-- Scanlines Overlay -->
+  <rect class="scanlines" x="2" y="2" width="876" height="256" rx="8" />
+
+  <!-- Corner Crosshairs -->
+  <g class="crosshair">
+    <path d="M 12 20 L 22 20 M 17 15 L 17 25" />
+    <path d="M 858 20 L 868 20 M 863 15 L 863 25" />
+    <path d="M 12 240 L 22 240 M 17 235 L 17 245" />
+    <path d="M 858 240 L 868 240 M 863 235 L 863 245" />
+  </g>
+
+  <!-- ================= TOP HUD CLUSTER ================= -->
+  <!-- Left Pill Badge -->
+  <rect class="badge-pill" x="24" y="20" width="92" height="22" />
+  <text class="tech-green" x="32" y="35">⚡ 0xDEAD_F</text>
+
+  <!-- Center Metadata (Cyberpsychosis / Glitched Daemon) -->
+  <text class="tech-mono" x="130" y="30">SYNAPTIC_OVERHEAT // PROTOCOL_0x89F_BREACH</text>
+  <text class="tech-green" x="130" y="44">BUFFER_OVERFLOW // CORTICAL_DAEMON_V9.0</text>
+
+  <!-- Right Barcode Graphic -->
+  <g transform="translate(730, 18)">
+    <rect class="barcode-bar" x="0" y="2" width="3" height="24" />
+    <rect class="barcode-bar" x="5" y="2" width="1" height="24" />
+    <rect class="barcode-bar" x="8" y="2" width="4" height="24" />
+    <rect class="barcode-bar" x="14" y="2" width="2" height="24" />
+    <rect class="barcode-bar" x="18" y="2" width="1" height="24" />
+    <rect class="barcode-bar" x="21" y="2" width="5" height="24" />
+    <rect class="barcode-bar" x="28" y="2" width="2" height="24" />
+    <rect class="barcode-bar" x="32" y="2" width="4" height="24" />
+    <rect class="barcode-bar" x="38" y="2" width="1" height="24" />
+    <rect class="barcode-bar" x="41" y="2" width="3" height="24" />
+    <rect class="barcode-bar" x="46" y="2" width="6" height="24" />
+    <rect class="barcode-bar" x="54" y="2" width="2" height="24" />
+    <rect class="barcode-bar" x="58" y="2" width="4" height="24" />
+    <rect class="barcode-bar" x="64" y="2" width="1" height="24" />
+    <rect class="barcode-bar" x="67" y="2" width="3" height="24" />
+    <text class="tech-mono" x="78" y="25">ERR//99</text>
+    <text class="tech-mono" x="0" y="35" font-size="7.5">0xCAFE 0xDEAD 0x00FF</text>
+  </g>
+
+  <!-- ================= CENTER QUOTES (MOTION STRETCH GRAPHIC) ================= -->
+  <g transform="translate(440, 128)">
+    <!-- SLIDE 0: Sun Tzu -->
+    <g class="slide s-0">
+      <text class="quote-tag" x="0" y="-32">[ 兵法 // 孫子 — CHINESE STRATEGY · 500 BC ]</text>
+      <text class="quote-title ghost-smear">“IN THE MIDST OF CHAOS, THERE IS ALSO OPPORTUNITY.”</text>
+      <text class="quote-title ghost-cyan">“IN THE MIDST OF CHAOS, THERE IS ALSO OPPORTUNITY.”</text>
+      <text class="quote-title ghost-red">“IN THE MIDST OF CHAOS, THERE IS ALSO OPPORTUNITY.”</text>
+      <text class="quote-title quote-main">“IN THE MIDST OF CHAOS, THERE IS ALSO OPPORTUNITY.”</text>
+      <text class="quote-sub" x="0" y="32">— SUN TZU (THE ART OF WAR)</text>
+    </g>
+
+    <!-- SLIDE 1: Miyamoto Musashi -->
+    <g class="slide s-1">
+      <text class="quote-tag" x="0" y="-32">[ 五輪書 // 宮本武蔵 — BUSHIDO · 1645 ]</text>
+      <text class="quote-title ghost-smear">“DO NOTHING THAT IS OF NO USE.”</text>
+      <text class="quote-title ghost-cyan">“DO NOTHING THAT IS OF NO USE.”</text>
+      <text class="quote-title ghost-red">“DO NOTHING THAT IS OF NO USE.”</text>
+      <text class="quote-title quote-main">“DO NOTHING THAT IS OF NO USE.”</text>
+      <text class="quote-sub" x="0" y="32">— MIYAMOTO MUSASHI (THE BOOK OF FIVE RINGS)</text>
+    </g>
+
+    <!-- SLIDE 2: Yi Sun-sin -->
+    <g class="slide s-2">
+      <text class="quote-tag" x="0" y="-32">[ 必死則生 // 李舜臣 — JOSEON NAVAL STRATEGY · 1597 ]</text>
+      <text class="quote-title ghost-smear">“THOSE WHO SEEK DEATH SHALL LIVE; THOSE WHO SEEK LIFE SHALL DIE.”</text>
+      <text class="quote-title ghost-cyan">“THOSE WHO SEEK DEATH SHALL LIVE; THOSE WHO SEEK LIFE SHALL DIE.”</text>
+      <text class="quote-title ghost-red">“THOSE WHO SEEK DEATH SHALL LIVE; THOSE WHO SEEK LIFE SHALL DIE.”</text>
+      <text class="quote-title quote-main">“THOSE WHO SEEK DEATH SHALL LIVE; THOSE WHO SEEK LIFE SHALL DIE.”</text>
+      <text class="quote-sub" x="0" y="32">— ADMIRAL YI SUN-SIN (NANJUNG ILGI)</text>
+    </g>
+
+    <!-- SLIDE 3: Fyodor Dostoevsky -->
+    <g class="slide s-3">
+      <text class="quote-tag" x="0" y="-32">[ ИДИОТ // Ф. ДОСТОЕВСКИЙ — RUSSIAN EXISTENTIALISM · 1869 ]</text>
+      <text class="quote-title ghost-smear">“BEAUTY WILL SAVE THE WORLD.”</text>
+      <text class="quote-title ghost-cyan">“BEAUTY WILL SAVE THE WORLD.”</text>
+      <text class="quote-title ghost-red">“BEAUTY WILL SAVE THE WORLD.”</text>
+      <text class="quote-title quote-main">“BEAUTY WILL SAVE THE WORLD.”</text>
+      <text class="quote-sub" x="0" y="32">— FYODOR DOSTOEVSKY (THE IDIOT)</text>
+    </g>
+
+    <!-- SLIDE 4: Marcus Aurelius -->
+    <g class="slide s-4">
+      <text class="quote-tag" x="0" y="-32">[ ΤΑ ΕΙΣ ΕΑΥΤΟΝ // ΜΑΡΚΟΣ ΑΥΡΗΛΙΟΣ — ROMAN STOICISM · 180 AD ]</text>
+      <text class="quote-title ghost-smear">“WASTE NO MORE TIME ARGUING WHAT A GOOD MAN SHOULD BE. BE ONE.”</text>
+      <text class="quote-title ghost-cyan">“WASTE NO MORE TIME ARGUING WHAT A GOOD MAN SHOULD BE. BE ONE.”</text>
+      <text class="quote-title ghost-red">“WASTE NO MORE TIME ARGUING WHAT A GOOD MAN SHOULD BE. BE ONE.”</text>
+      <text class="quote-title quote-main">“WASTE NO MORE TIME ARGUING WHAT A GOOD MAN SHOULD BE. BE ONE.”</text>
+      <text class="quote-sub" x="0" y="32">— MARCUS AURELIUS (MEDITATIONS)</text>
+    </g>
+
+    <!-- SLIDE 5: Taylor Otwell and Da Vinci -->
+    <g class="slide s-5">
+      <text class="quote-tag" x="0" y="-32">[ 0xNULL // LARAVEL ARTISAN INSPIRE ]</text>
+      <text class="quote-title ghost-smear">“SIMPLICITY IS THE ULTIMATE SOPHISTICATION. WE MUST SHIP.”</text>
+      <text class="quote-title ghost-cyan">“SIMPLICITY IS THE ULTIMATE SOPHISTICATION. WE MUST SHIP.”</text>
+      <text class="quote-title ghost-red">“SIMPLICITY IS THE ULTIMATE SOPHISTICATION. WE MUST SHIP.”</text>
+      <text class="quote-title quote-main">“SIMPLICITY IS THE ULTIMATE SOPHISTICATION. WE MUST SHIP.”</text>
+      <text class="quote-sub" x="0" y="32">— LEONARDO DA VINCI &amp; TAYLOR OTWELL</text>
+    </g>
+  </g>
+
+  <!-- ================= BOTTOM TECHNICAL FOOTER (CYBERPSYCHOSIS GIBBERISH) ================= -->
+  <!-- Left Hex Dump / Corrupted Memory -->
+  <text class="tech-mono" x="24" y="228">SIGSEGV: 0x7FFF_DEAD_BEEF // SYNAPTIC_OVERRIDE</text>
+  <text class="tech-mono" x="24" y="241">DATA_CORRUPT: KERN_PANIC // 0x00FF41_DUMP</text>
+
+  <!-- Center Active Status (Limit Warning) -->
+  <circle class="pulse-dot" cx="375" cy="232" r="3.5" />
+  <text class="tech-green" x="440" y="235" text-anchor="middle" fill="#ff0055">WARN: LIMIT // ACTIVE_BREACH</text>
+
+  <!-- Right Corrupted Daemon Info -->
+  <text class="tech-mono" x="856" y="228" text-anchor="end">CORTICAL_DAEMON // 0xCAFE_OVERFLOW</text>
+  <text class="tech-mono" x="856" y="241" text-anchor="end">NEURAL_DECAY: 99.4% // MEM_FAULT_0x00</text>
+</svg>
