@@ -4,7 +4,7 @@
 ### <img src="https://api.iconify.design/lucide/rocket.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Rocket" /> Software Engineer & Full-Stack Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SendHelp001/SendHelp001/main/assets/hyperfocus-inspire.svg?v=4" width="100%" alt="Hyperfocus Inspiring Quotes Poster" />
+  <img src="https://raw.githubusercontent.com/SendHelp001/SendHelp001/main/assets/hyperfocus-inspire.svg?v=5" width="100%" alt="Hyperfocus Inspiring Quotes Poster" />
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SendHelp001-181717?style=for-the-badge&logo=github&logoColor=adff2f)](https://github.com/SendHelp001)
