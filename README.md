@@ -27,7 +27,7 @@
 
 <p align="left">
   <img src="https://api.iconify.design/lucide/building-2.svg?color=%23adff2f" width="18" height="18" valign="middle" alt="Building" /> 
-  <b>Currently Architecting:</b> Centralized HRIS, Biometric Integration, Real-Time Payroll, and RSP modules for <b>LGU Manolo Fortich</b>
+  <b>Currently Architecting:</b> -------
 </p>
 
 <p align="left">
