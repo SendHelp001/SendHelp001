@@ -1,6 +1,6 @@
 <div align="left">
 
-# Jonard `(Jxnxrd)`
+# `Jxnxrd`
 > **Software Engineer & Full-Stack Developer**  
 > Focusing on high-throughput web applications, enterprise system architecture, and resilient backend systems.
 
